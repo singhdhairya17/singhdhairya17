@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31h4pst4jfaxztm7d73xlf4kh7qm" />
+<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status?user=31h4pst4jfaxztm7d73xlf4kh7qm" />
 
 </div>
 
