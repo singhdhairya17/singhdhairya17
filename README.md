@@ -137,11 +137,13 @@ const links = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dhairya-singh-b75361303/">
-  <img src="https://img.shields.io/badge/linkedin-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+   
+
 <a href="https://www.chess.com/member/singhdhairya1">
-  <img src="https://img.shields.io/badge/chess-1f1f1f?style=flat"/>
+  <img src="https://img.shields.io/badge/Chess.com-Play-2ea44f?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
 </a>
 
 </div>
@@ -153,3 +155,4 @@ const links = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2a2a2a&height=60&section=footer"/>
 
 </div>
+
