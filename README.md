@@ -119,7 +119,7 @@ $ system.status()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=singhdhairya17&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=singhdhairya17&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="150"/>
 
 </div>
 
