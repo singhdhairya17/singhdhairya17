@@ -1,29 +1,33 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=C9A84C&center=true&vCenter=true&width=750&lines=Dhairya+Singh;Backend+%2B+Systems+%2B+AI;Think+in+systems%2C+build+for+scale;Strategy+%E2%99%9F+Precision+%E2%9A%A1+Intelligence+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=C9A84C&center=true&vCenter=true&width=750&lines=Dhairya+Singh;Backend+%2B+Systems+%2B+AI;Think+in+systems%2C+build+for+scale;♟️+⚡+🤖" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260"/>
 </div>
 
 ---
 
-# 🧠 About
+## 🧠 Profile Snapshot
 
-```yaml
-Focus: Backend Systems · AI · Problem Solving
-Strength: Java (deep fundamentals + DSA mindset)
-Approach: Build scalable systems, not just features
-Learning: Constantly exploring AI models, tools & architecture
+<div align="center">
+
+```id="e3b6nl"
+Focus     → Backend Systems + AI
+Strength  → Java + DSA mindset
+Approach  → Build scalable & efficient systems
+Learning  → AI tools, models & architecture
 ```
+
+</div>
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -33,7 +37,7 @@ Learning: Constantly exploring AI models, tools & architecture
 
 ---
 
-# 📊 GitHub Insights
+## 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -51,33 +55,47 @@ Learning: Constantly exploring AI models, tools & architecture
 
 ---
 
-# ♟️ Mindset
+## 🧩 Dev Matrix
 
 <div align="center">
 
-> ♟️ Think like a chess player
-> ⚡ Execute like an F1 driver
-> 🤖 Build like an engineer
+| ⚡ Systems        | ♟️ Strategy   | 🤖 Intelligence |
+| ---------------- | ------------- | --------------- |
+| Backend Thinking | Chess Mindset | AI Curiosity    |
 
 </div>
 
 ---
 
-# 🎯 Interests
+## 🎯 Interests & Identity
 
 <div align="center">
 
-♟️ Chess — strategy & pattern breaking
-🏎️ Formula 1 — Max Verstappen mindset
-⚽ Football — FC Barcelona
+🏎️ Formula 1 — Max Verstappen
+♟️ Chess — strategic mindset
+⚽ FC Barcelona
 🧙‍♂️ Harry Potter
-🤖 AI tools, models & emerging tech
+🤖 AI tools & innovation
 
 </div>
 
 ---
 
-# 🌐 Connect
+## 🧠 Philosophy Widget
+
+<div align="center">
+
+```id="3l7q1v"
+Systems > Syntax
+Consistency > Motivation
+Depth > Noise
+```
+
+</div>
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
@@ -93,9 +111,11 @@ Learning: Constantly exploring AI models, tools & architecture
 
 ---
 
+## 👀 Profile Views
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=singhdhairya17&label=Profile%20Views&color=C9A84C&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=singhdhairya17&label=Views&color=C9A84C&style=flat"/>
 
 </div>
 
@@ -103,7 +123,7 @@ Learning: Constantly exploring AI models, tools & architecture
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220"/>
 
 </div>
 
@@ -111,6 +131,6 @@ Learning: Constantly exploring AI models, tools & architecture
 
 <div align="center">
 
-⭐ *"Consistency compounds. Systems scale."*
+⭐ *"Build. Break. Scale. Repeat."*
 
 </div>
