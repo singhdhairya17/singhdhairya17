@@ -3,10 +3,8 @@
 <h1 style="margin-bottom:4px;">Dhairya Singh</h1>
 
 <p style="font-size:13px; color:#8b949e; margin:0;">
-  backend systems • ai • scalability
+  java • python • backend systems • ai
 </p>
-
-
 
 </div>
 
