@@ -12,11 +12,20 @@
 
 ## about
 
-```js
-const dhairya = {
-  role: "backend developer",
-  focus: ["systems", "ai", "scalability"]
-};
+```java
+class Developer {
+    String role = "Backend Developer";
+
+    List<String> focus = List.of(
+        "Systems",
+        "AI",
+        "Scalability"
+    );
+
+    boolean buildsForScale() {
+        return true;
+    }
+}
 ```
 
 i build systems that stay stable under growth,
@@ -30,8 +39,21 @@ not just features that work once.
 
 ## projects
 
-```py
-projects = ["wellus", "chess960"]
+```python
+class Project:
+    def __init__(self, name, focus):
+        self.name = name
+        self.focus = focus
+
+wellus = Project(
+    "Wellus",
+    ["OCR", "AI recommendations", "analytics"]
+)
+
+chess960 = Project(
+    "Chess960",
+    ["real-time systems", "flexible logic", "backend design"]
+)
 ```
 
 **wellus — ai diet planner**
@@ -44,16 +66,16 @@ projects = ["wellus", "chess960"]
 → flexible system design
 → backend architecture
 
-<div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=build&text2=measure&text3=learn&text4=repeat&width=600&height=120" />
-</div>
-
 ---
 
 ## thinking
 
-```text
-problem → structure → constraints → solution
+```python
+def solve(problem):
+    problem = define(problem)
+    parts = decompose(problem)
+    clean = remove_noise(parts)
+    return design(clean)
 ```
 
 most complexity comes from poor structure,
@@ -64,10 +86,12 @@ not difficult logic.
 ## process
 
 ```java
-while(true) {
+while (true) {
     learn();
     build();
     refine();
+
+    if (isScalable()) break;
 }
 ```
 
@@ -86,10 +110,11 @@ while(true) {
 ## output
 
 ```bash
-$ status
-> building real systems
-> improving daily
-> aiming for scale
+$ system.status()
+
+> developer = active
+> focus = systems + ai
+> goal = scalable applications
 ```
 
 <div align="center">
@@ -103,12 +128,15 @@ $ status
 ## connect
 
 ```js
-links = ["linkedin", "chess"]
+const links = {
+  linkedin: "connected",
+  chess: "active"
+};
 ```
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-link">
+<a href="https://www.linkedin.com/in/dhairya-singh-b75361303/">
   <img src="https://img.shields.io/badge/linkedin-000000?style=flat"/>
 </a>
 
