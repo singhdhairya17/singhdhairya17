@@ -1,63 +1,84 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=F7A41D&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;LOADING+CORE+MODULES...;DHAIRYA.....;SPEED+%7C+STRATEGY+%7C+INTELLIGENCE" />
+# Dhairya Singh
+
+### System Design Overview
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2000&pause=600&color=3B82F6&center=true&vCenter=true&width=700&lines=Designing+scalable+systems;Building+AI-powered+applications;Thinking+in+architecture" />
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
-</div>
+## 📐 SYSTEM OVERVIEW
 
----
+```yaml id="sysov"
+system: dhairya.profile
+type: evolving_engineer
 
-```id="bootseq"
-> Boot Sequence Initiated...
+focus:
+  - backend systems
+  - ai-powered applications
+  - scalable architecture
 
-[✔] Java Core Systems Loaded
-[✔] Data Structures & Algorithms Engine Ready
-[✔] Backend Architecture Module Active
-[✔] AI Exploration Layer Connected
-[✔] Strategic Thinking Engine (Chess Mode) Enabled
-[✔] Performance Mode (F1 Precision) Activated
-
-> System Status: RUNNING ⚡
+status: active
 ```
 
 ---
 
-## ⚡ SYSTEM GRID
+## 🧩 COMPONENTS
 
 <div align="center">
 
-| MODULE                 | STATE    | DESCRIPTION                |
-| ---------------------- | -------- | -------------------------- |
-| 🏎️ Performance Engine | ACTIVE   | Speed + execution mindset  |
-| ♟️ Strategy Core       | ACTIVE   | Chess-based thinking       |
-| 🤖 AI Layer            | LEARNING | Models, tools, exploration |
-| ⚙️ Backend Core        | STABLE   | Systems & architecture     |
+| COMPONENT       | ROLE                      | STATUS    |
+| --------------- | ------------------------- | --------- |
+| Backend Systems | APIs, logic, architecture | STABLE    |
+| Data Structures | Core problem solving      | IMPROVING |
+| System Design   | High-level architecture   | LEARNING  |
+| AI Integration  | Intelligent features      | ACTIVE    |
 
 </div>
 
 ---
 
-## 🧠 SIGNAL
+## 🔄 DATA FLOW
 
-```id="signalcore"
-I don’t build for demo.
-I build for scale.
-
-I don’t follow patterns.
-I break and redefine them.
-
-Every system is a game.
-Every decision is a move.
+```text id="flow"
+problem
+  ↓
+break down → structure → constraints
+  ↓
+design system → implement → test
+  ↓
+optimize → scale
 ```
 
 ---
 
-## ⚙️ STACK VISUAL
+## 🏗️ CURRENT SYSTEMS
+
+```yaml id="systems"
+projects:
+
+  wellus:
+    type: ai diet planner
+    architecture:
+      - OCR data extraction
+      - AI recommendation engine
+      - analytics pipeline
+
+  chess960:
+    type: real-time game system
+    status: in_progress
+    architecture:
+      - game logic engine
+      - real-time interaction
+      - scalable backend
+```
+
+---
+
+## ⚙️ TECH STACK
 
 <div align="center">
 
@@ -67,42 +88,40 @@ Every decision is a move.
 
 ---
 
-## 📊 SYSTEM METRICS
+## 📊 METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=singhdhairya17&show_icons=true&theme=transparent&hide_border=true&title_color=F7A41D&icon_color=F7A41D" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=singhdhairya17&show_icons=true&theme=default&hide_border=true" height="150"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhdhairya17&theme=transparent&hide_border=true&ring=F7A41D&fire=F7A41D" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhdhairya17&theme=default&hide_border=true" height="150"/>
 
 </div>
 
 ---
 
-## 🎮 HUMAN LAYER
+## 🔁 CURRENT IMPROVEMENTS
 
-```id="humanlayer"
-Mode: Competitive + Curious
-
-♟ Chess → Think deeper than surface
-🏎 F1 → Execute with precision
-⚽ Football → Flow + structure
-🧙 Harry Potter → Curiosity stays alive
-🤖 AI → Always evolving
+```yaml id="improve"
+focus:
+  - mastering data structures & algorithms
+  - strengthening system design fundamentals
+  - building production-level applications
+  - exploring AI integrations
 ```
 
 ---
 
-## 🔗 ACCESS POINTS
+## 🌐 INTERFACES
 
 <div align="center">
 
 <a href="https://linkedin.com/in/your-link">
-  <img src="https://img.shields.io/badge/CONNECT-LinkedIn-F7A41D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://www.chess.com/member/singhdhairya1">
-  <img src="https://img.shields.io/badge/PLAY-CHESS-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Chess-green?style=for-the-badge"/>
 </a>
 
 </div>
@@ -111,17 +130,6 @@ Mode: Competitive + Curious
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=singhdhairya17&label=SYSTEM%20VISITS&color=F7A41D"/>
-
-</div>
-
----
-
-<div align="center">
-
-```id="endline"
-> End of Interface
-> Continue exploring repositories...
-```
+*Designed for growth. Built to scale.*
 
 </div>
