@@ -33,17 +33,7 @@
 
 # ♟️ Chess Arena
 
-<div align="center">
-
 <img src="https://chesscom-profile.vercel.app/api/profile/singhdhairya1" />
-
-<br><br>
-
-<a href="https://www.chess.com/member/singhdhairya1">
-  <img src="https://img.shields.io/badge/Play%20With%20Me%20on%20Chess.com-000?style=for-the-badge&logo=chess.com" />
-</a>
-
-</div>
 
 ---
 
