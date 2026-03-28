@@ -3,7 +3,7 @@
 <h1 style="margin-bottom:4px;">Dhairya Singh</h1>
 
 <p style="font-size:13px; color:#8b949e; margin:0;">
-  java • python • backend systems • ai
+  java • python • backend • exploring ai systems
 </p>
 
 </div>
@@ -12,24 +12,24 @@
 
 ## about
 
-```java
+```java id="u7sk1c"
 class Developer {
-    String role = "Backend Developer";
+    String role = "CSE Student";
 
-    List<String> focus = List.of(
-        "Systems",
-        "AI",
-        "Scalability"
+    List<String> interests = List.of(
+        "Backend Development",
+        "System Design",
+        "AI-based Applications"
     );
 
-    boolean buildsForScale() {
+    boolean learningEveryday() {
         return true;
     }
 }
 ```
 
-i build systems that stay stable under growth,
-not just features that work once.
+i’m currently focused on building projects and improving my understanding of
+backend systems, problem solving, and how scalable applications work.
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
@@ -39,59 +39,44 @@ not just features that work once.
 
 ## projects
 
-```python
-class Project:
-    def __init__(self, name, focus):
-        self.name = name
-        self.focus = focus
-
-wellus = Project(
-    "Wellus",
-    ["OCR", "AI recommendations", "analytics"]
-)
-
-chess960 = Project(
-    "Chess960",
-    ["real-time systems", "flexible logic", "backend design"]
-)
+```python id="v3o5lt"
+projects = {
+    "wellus": ["ocr", "ai", "nutrition tracking"],
+    "chess960": ["real-time", "game logic", "backend"]
+}
 ```
 
 **wellus — ai diet planner**
-→ ocr → structured data
-→ ai → decision layer
-→ analytics → progress tracking
+→ extracting data using ocr
+→ experimenting with ai-based suggestions
+→ tracking user progress
 
 **chess960** *(in progress)*
-→ real-time gameplay
-→ flexible system design
-→ backend architecture
+→ learning real-time system design
+→ handling game logic and states
 
 ---
 
 ## thinking
 
-```python
-def solve(problem):
-    problem = define(problem)
-    parts = decompose(problem)
-    clean = remove_noise(parts)
-    return design(clean)
+```python id="z2g2ch"
+def approach(problem):
+    problem = understand(problem)
+    parts = break_down(problem)
+    return solve(parts)
 ```
 
-most complexity comes from poor structure,
-not difficult logic.
+i try to keep things simple and structured,
+especially when learning new concepts.
 
 ---
 
 ## process
 
-```java
-while (true) {
-    learn();
+```java id="lmn2ws"
+while (learning) {
     build();
-    refine();
-
-    if (isScalable()) break;
+    improve();
 }
 ```
 
@@ -109,12 +94,12 @@ while (true) {
 
 ## output
 
-```bash
-$ system.status()
+```bash id="eq9xk2"
+$ status
 
-> developer = active
-> focus = systems + ai
-> goal = scalable applications
+learning: backend + ai
+building: projects
+goal: improve consistently
 ```
 
 <div align="center">
@@ -127,9 +112,9 @@ $ system.status()
 
 ## connect
 
-```js
+```js id="h5g9pt"
 const links = {
-  linkedin: "connected",
+  linkedin: "open",
   chess: "active"
 };
 ```
@@ -145,5 +130,3 @@ const links = {
 </a>
 
 </div>
-
-
