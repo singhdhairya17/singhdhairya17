@@ -33,7 +33,19 @@
 
 # ♟️ Chess Arena
 
-<img src="https://chesscom-profile.vercel.app/api/profile/singhdhairya1" />
+<div align="center">
+
+<a href="https://www.chess.com/member/singhdhairya1">
+  <img src="https://img.shields.io/badge/♟️%20Play%20With%20Me%20on%20Chess.com-000?style=for-the-badge" />
+</a>
+
+<br><br>
+
+🧠 Strategic Thinking
+⚡ Blitz & Rapid Player
+📈 Constantly improving
+
+</div>
 
 ---
 
