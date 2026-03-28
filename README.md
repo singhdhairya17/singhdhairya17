@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=F7A41D&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;LOADING+CORE+MODULES...;DHAIRYA SINGH;SPEED+%7C+STRATEGY+%7C+INTELLIGENCE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=F7A41D&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;LOADING+CORE+MODULES...;DHAIRYA+%2F%2F+SYSTEMS+ENGINEER;SPEED+%7C+STRATEGY+%7C+INTELLIGENCE" />
 
 </div>
 
