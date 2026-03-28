@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31h4pst4jfaxztm7d73xlf4kh7qm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
 
 </div>
 
