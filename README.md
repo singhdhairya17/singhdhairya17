@@ -1,22 +1,12 @@
 <div align="center">
 
-<!-- NAME -->
+<h1 style="margin-bottom:4px;">Dhairya Singh</h1>
 
-<h1 style="margin-bottom:6px;">Dhairya Singh</h1>
-
-<!-- TAGLINE -->
-
-<p style="font-size:14px; color:#8b949e; margin-top:0;">
-  build() • refine() • scale()
+<p style="font-size:13px; color:#8b949e; margin:0;">
+  backend systems • ai • scalability
 </p>
 
-<!-- TYPING EFFECT -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Backend+Systems+%7C+AI+%7C+Scalable+Design;Thinking+in+structures+not+shortcuts" />
-
-<br/><br/>
-
-<!-- SUBTLE DIVIDER -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=building+systems+that+scale;focused+on+clarity+and+structure" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2"/>
 
