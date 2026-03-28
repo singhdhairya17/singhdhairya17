@@ -6,9 +6,7 @@
   backend systems • ai • scalability
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=building+systems+that+scale;focused+on+clarity+and+structure" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2"/>
 
 </div>
 
