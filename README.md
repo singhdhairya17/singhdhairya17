@@ -1,69 +1,73 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&pause=800&color=F7A41D&center=true&vCenter=true&width=800&lines=Dhairya+Singh;Speed+%E2%9A%A1+Strategy+%E2%99%9F+Intelligence+%F0%9F%A4%96;Backend+%7C+Systems+%7C+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=F7A41D&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;LOADING+CORE+MODULES...;DHAR+%2F%2F+SYSTEMS+ENGINEER;SPEED+%7C+STRATEGY+%7C+INTELLIGENCE" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
 </div>
 
 ---
 
-<div align="center">
+```id="bootseq"
+> Boot Sequence Initiated...
 
-```
-🏎️  SPEED        ♟️  STRATEGY        🤖  INTELLIGENCE
-```
+[✔] Java Core Systems Loaded
+[✔] Data Structures & Algorithms Engine Ready
+[✔] Backend Architecture Module Active
+[✔] AI Exploration Layer Connected
+[✔] Strategic Thinking Engine (Chess Mode) Enabled
+[✔] Performance Mode (F1 Precision) Activated
 
-</div>
-
----
-
-# ⚡ Identity Matrix
-
-<div align="center">
-
-| 🏎️ Execution  | ♟️ Thinking          | 🤖 Exploration       |
-| -------------- | -------------------- | -------------------- |
-| Fast & Precise | Strategic & Adaptive | Curious & Analytical |
-
-</div>
-
----
-
-# 🧠 Core Signal
-
-<div align="center">
-
-```id="9q1zpa"
-I don't just write code.
-I design systems.
-
-I don't chase trends.
-I understand fundamentals.
-
-I don't rush results.
-I build long-term leverage.
+> System Status: RUNNING ⚡
 ```
 
-</div>
-
 ---
 
-# ⚙️ Tech Universe
+## ⚡ SYSTEM GRID
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,fastapi,nodejs,react,nextjs,postgres,redis,docker,linux,git" />
+| MODULE                 | STATE    | DESCRIPTION                |
+| ---------------------- | -------- | -------------------------- |
+| 🏎️ Performance Engine | ACTIVE   | Speed + execution mindset  |
+| ♟️ Strategy Core       | ACTIVE   | Chess-based thinking       |
+| 🤖 AI Layer            | LEARNING | Models, tools, exploration |
+| ⚙️ Backend Core        | STABLE   | Systems & architecture     |
 
 </div>
 
 ---
 
-# 📊 Live Pulse
+## 🧠 SIGNAL
+
+```id="signalcore"
+I don’t build for demo.
+I build for scale.
+
+I don’t follow patterns.
+I break and redefine them.
+
+Every system is a game.
+Every decision is a move.
+```
+
+---
+
+## ⚙️ STACK VISUAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,fastapi,react,nextjs,postgres,redis,docker,linux" />
+
+</div>
+
+---
+
+## 📊 SYSTEM METRICS
 
 <div align="center">
 
@@ -73,52 +77,32 @@ I build long-term leverage.
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhdhairya17&bg_color=00000000&color=F7A41D&line=F7A41D&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
 ---
 
-# 🎯 Human Side
+## 🎮 HUMAN LAYER
 
-<div align="center">
+```id="humanlayer"
+Mode: Competitive + Curious
 
-🏎️ Formula 1 — Max Verstappen mindset
-♟️ Chess — pattern breaker, position thinker
-⚽ FC Barcelona — fluid + structured
-🧙‍♂️ Harry Potter — curiosity mode always on
-🤖 AI — learning, exploring, evolving
-
-</div>
-
----
-
-# 🧩 Mental Model
-
-<div align="center">
-
-```
-Speed without control is chaos.
-Strategy without execution is useless.
-Technology without thinking is noise.
+♟ Chess → Think deeper than surface
+🏎 F1 → Execute with precision
+⚽ Football → Flow + structure
+🧙 Harry Potter → Curiosity stays alive
+🤖 AI → Always evolving
 ```
 
-</div>
-
 ---
 
-# 🌐 Connect Zone
+## 🔗 ACCESS POINTS
 
 <div align="center">
 
 <a href="https://linkedin.com/in/your-link">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-F7A41D?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/CONNECT-LinkedIn-F7A41D?style=for-the-badge"/>
 </a>
 
 <a href="https://www.chess.com/member/singhdhairya1">
-  <img src="https://img.shields.io/badge/Chess-Play-2ea44f?style=for-the-badge&logo=chess.com"/>
+  <img src="https://img.shields.io/badge/PLAY-CHESS-2ea44f?style=for-the-badge"/>
 </a>
 
 </div>
@@ -127,7 +111,7 @@ Technology without thinking is noise.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=singhdhairya17&label=VISITORS&color=F7A41D&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=singhdhairya17&label=SYSTEM%20VISITS&color=F7A41D"/>
 
 </div>
 
@@ -135,14 +119,9 @@ Technology without thinking is noise.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ *"Play long-term games. Build long-term systems."*
+```id="endline"
+> End of Interface
+> Continue exploring repositories...
+```
 
 </div>
