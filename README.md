@@ -104,7 +104,8 @@ goal: improve consistently
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhdhairya17&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhdhairya17&theme=github_dark" height="150"/>
+<img src="https://streak-stats.demolab.com?user=singhdhairya17&theme=dark&hide_border=true" height="150"/>
 
 </div>
 
